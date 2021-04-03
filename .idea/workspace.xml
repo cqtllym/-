@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59a51394-52b1-4b69-b6eb-13a7d3aa920b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/项目实训.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/result/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/spiders/baiduSpider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/baidu_search/spiders/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_search/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word2vec/word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/Screening_Chinese.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/content_filtering.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/correction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/data_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/file_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/text_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/transcoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/result_processing/unpack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/spiders/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zimu/zimu/spiders/zimu_spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/Conditional_probability.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/N10/mydict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/N10/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/N10/词性" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/N12/ltp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/N12/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/N12/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/N30/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/Part_of_speech_tagging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/Text_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/Text_classification/document.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/Text_classification/document_items.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/bigrams_le.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/qq/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/qq/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/segmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/自定义词典.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pPyGkGSQfw5uH2uVoQykwb7lmx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/github-本地/A_New_Start/第五学期/数据科学导论/keyboard" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PyCharm\项目实训\baidu_search\baidu_search\result" />
+      <recent name="E:\PyCharm\项目实训\练习\Text_classification" />
+      <recent name="E:\PyCharm\项目实训\练习" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.data_cleaning">
+    <configuration name="Screening_Chinese" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="项目实训" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zimu/zimu/result_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zimu/zimu/result_processing/Screening_Chinese.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_cleaning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="项目实训" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zimu/zimu/result_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zimu/zimu/result_processing/data_cleaning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_cleaning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="项目实训" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zimu/zimu/result_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zimu/zimu/result_processing/file_cleaning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text_processing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="项目实训" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zimu/zimu/result_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zimu/zimu/result_processing/text_processing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transcoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="项目实训" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zimu/zimu/result_processing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zimu/zimu/result_processing/transcoding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_cleaning" />
+        <item itemvalue="Python.Screening_Chinese" />
+        <item itemvalue="Python.transcoding" />
+        <item itemvalue="Python.file_cleaning" />
+        <item itemvalue="Python.text_processing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a51394-52b1-4b69-b6eb-13a7d3aa920b" name="Default Changelist" comment="" />
+      <created>1615098925344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615098925344</updated>
+      <workItem from="1615098928375" duration="8000" />
+      <workItem from="1615099934753" duration="1912000" />
+      <workItem from="1615103215249" duration="4726000" />
+      <workItem from="1615373360503" duration="12290000" />
+      <workItem from="1615420018568" duration="3252000" />
+      <workItem from="1615423513590" duration="10184000" />
+      <workItem from="1615725987789" duration="5788000" />
+      <workItem from="1615774229446" duration="18103000" />
+      <workItem from="1615809546190" duration="341000" />
+      <workItem from="1615810023226" duration="1436000" />
+      <workItem from="1616205065450" duration="18980000" />
+      <workItem from="1616233208668" duration="600000" />
+      <workItem from="1616630448050" duration="18260000" />
+      <workItem from="1616719142231" duration="26464000" />
+      <workItem from="1616984763327" duration="9650000" />
+      <workItem from="1617324679781" duration="13173000" />
+      <workItem from="1617344736835" duration="22630000" />
+      <workItem from="1617407349369" duration="12504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$Screening_Chinese.coverage" NAME="Screening_Chinese Coverage Results" MODIFIED="1617420877523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$zimu_spider.coverage" NAME="zimu_spider Coverage Results" MODIFIED="1616737218069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/spiders" />
+    <SUITE FILE_PATH="coverage/$baiduSpider.coverage" NAME="baiduSpider Coverage Results" MODIFIED="1615811171821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_search/baidu_search/spiders" />
+    <SUITE FILE_PATH="coverage/$file_cleaning.coverage" NAME="file_cleaning Coverage Results" MODIFIED="1617420588549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$text_processing.coverage" NAME="text_processing Coverage Results" MODIFIED="1617420480726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$Conditional_probability.coverage" NAME="Conditional_probability Coverage Results" MODIFIED="1615375400950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/$setup.coverage" NAME="setup Coverage Results" MODIFIED="1615795467384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/PyNLPIR-0.6.0" />
+    <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1617417430915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1617324860969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/word2vec" />
+    <SUITE FILE_PATH="coverage/$download_urls.coverage" NAME="download_urls Coverage Results" MODIFIED="1617327903932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/download_urls" />
+    <SUITE FILE_PATH="coverage/$segmentation.coverage" NAME="segmentation Coverage Results" MODIFIED="1615459192390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/$scrapy_test.coverage" NAME="scrapy_test Coverage Results" MODIFIED="1615804452924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/N10" />
+    <SUITE FILE_PATH="coverage/$correction__1_.coverage" NAME="correction (1) Coverage Results" MODIFIED="1617355941445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$Part_of_speech_tagging.coverage" NAME="Part_of_speech_tagging Coverage Results" MODIFIED="1615453423215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/$content_filtering.coverage" NAME="content_filtering Coverage Results" MODIFIED="1617417813443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1616657427493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/N12" />
+    <SUITE FILE_PATH="coverage/$data_cleaning.coverage" NAME="data_cleaning Coverage Results" MODIFIED="1617437299233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1616646708421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/N12" />
+    <SUITE FILE_PATH="coverage/$correction.coverage" NAME="correction Coverage Results" MODIFIED="1617420405068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$unpack.coverage" NAME="unpack Coverage Results" MODIFIED="1617420425687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$bigrams_le.coverage" NAME="bigrams_le Coverage Results" MODIFIED="1615377262662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/$Text_classification.coverage" NAME="Text_classification Coverage Results" MODIFIED="1615793761317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习" />
+    <SUITE FILE_PATH="coverage/$run__2_.coverage" NAME="run (2) Coverage Results" MODIFIED="1616748498643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_search/baidu_search/spiders" />
+    <SUITE FILE_PATH="coverage/$transcoding.coverage" NAME="transcoding Coverage Results" MODIFIED="1617420708404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/result_processing" />
+    <SUITE FILE_PATH="coverage/$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1616667685486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/练习/qq" />
+    <SUITE FILE_PATH="coverage/$run.coverage" NAME="run Coverage Results" MODIFIED="1617418191638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zimu/zimu/spiders" />
+  </component>
+</project>
