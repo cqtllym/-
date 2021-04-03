@@ -13,15 +13,15 @@ class ZimuSpiderSpider(scrapy.Spider):
         hrefs = response.selector.xpath('//div[@class="subitem"]//a[contains(@id,"downsubbtn")]/@onclick').extract()
         for url in hrefs:
             url_detail = "https://assrt.net"+url[33:-15]
-            # dongt_filter必须设为true，不然无法爬取
+            # dongt_filter必须设为true，不然可能因为屏蔽而无法爬取
             request = scrapy.Request(url=url_detail, callback=self.parse_url, dont_filter=True)
 
             yield request
 
     def parse_url(self, response):
-        # 就是这个函数出错，下次直接从这里开始做
         body = response.body
         item = ZimuItem()
+        # 返回的url中取其中？前的就行了，虽然存在极少数错误，但不妨碍
         url = response.url.split("?")[0]
         item["file_urls"] = url
         item["files"] = body
