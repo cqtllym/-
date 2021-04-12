@@ -25,11 +25,14 @@ if __name__ == '__main__':
     slash_regex = re.compile(r'\\\w', re.S)
     repeat_regex = re.compile(r'[-=]{10}', re.S)
 
-
     path = "../result/data_cleaning"
+    final = "../result/final_txt"
+    if not os.path.isdir(final):
+        os.makedirs(final)
     datanames = os.listdir(path)
     for i in datanames:
         f = open(path+"/"+i, "r+")
+        g = open(final+"/"+i, "a+")
         while True:
             line = f.readline()
             if line:
@@ -40,7 +43,7 @@ if __name__ == '__main__':
                 for filter in filters:
                     try:
                         line.index(filter)
-                        # sys.stderr.write("filter keyword of %s %s\n" % (filter, line))
+                        sys.stderr.write("filter keyword of %s %s\n" % (filter, line))
                         need_continue = True
                         break
                     except:
@@ -50,7 +53,7 @@ if __name__ == '__main__':
 
                 # 去掉剧集信息
                 if re.match('.*第.*季.*', line):
-                    # sys.stderr.write("filter copora %s\n" % line)
+                    sys.stderr.write("filter copora %s\n" % line)
                     continue
                 if re.match('.*第.*集.*', line):
                     sys.stderr.write("filter copora %s\n" % line)
@@ -69,7 +72,7 @@ if __name__ == '__main__':
                 # 去转义
                 line = slash_regex.sub('', line)
 
-                # 去重复
+                # 去重复（这个没有做好）
                 new_line = repeat_regex.sub('', line)
                 if len(new_line) != len(line):
                     continue
@@ -77,7 +80,9 @@ if __name__ == '__main__':
                 # 去特殊字符
                 line = line.replace('-', '').strip()
 
+                g.write(line+"\n")
             else:
                 break
         f.close()
+        g.close()
         pass

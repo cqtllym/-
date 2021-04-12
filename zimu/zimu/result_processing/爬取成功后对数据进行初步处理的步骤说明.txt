@@ -6,4 +6,4 @@
 5、transcoding
 6、Screening_Chinese
 7、data_cleaning
-8、content_filtering   # 尚未完成，等待进一步改善
+8、content_filtering   # 已完成，最终结果在final_txt文件中，至此，爬取结果数据清洗完毕
