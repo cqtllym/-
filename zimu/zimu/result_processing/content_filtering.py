@@ -1,5 +1,4 @@
 # 第八步，内容过滤
-# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!未完成
 
 import sys
 import re
@@ -27,12 +26,14 @@ if __name__ == '__main__':
 
     path = "../result/data_cleaning"
     final = "../result/final_txt"
+
     if not os.path.isdir(final):
         os.makedirs(final)
     datanames = os.listdir(path)
     for i in datanames:
         f = open(path+"/"+i, "r+")
         g = open(final+"/"+i, "a+")
+        lines_seen = set()
         while True:
             line = f.readline()
             if line:
@@ -60,7 +61,6 @@ if __name__ == '__main__':
                     continue
                 if re.match('.*第.*帧.*', line):
                     sys.stderr.write("filter copora %s\n" % line)
-                    line = ""
                     continue
 
                 # 去html标签
@@ -71,6 +71,15 @@ if __name__ == '__main__':
 
                 # 去转义
                 line = slash_regex.sub('', line)
+
+                # 每两百行将不重复的行放入，用于判断行是否重复,超过两百行的重复不作清除处理
+                if line not in lines_seen:
+                    lines_seen.add(line)
+                    if len(lines_seen) > 200:
+                        lines_seen.clear()
+                else:
+                    print(line)
+                    continue
 
                 # 去重复（这个没有做好）
                 new_line = repeat_regex.sub('', line)
